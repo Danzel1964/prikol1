@@ -1,0 +1,18 @@
+.carusel-item img{
+    height: 1050px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.myportfolio h1{
+    /* color: red; */
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+h5{
+    
+}
